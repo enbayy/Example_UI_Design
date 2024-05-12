@@ -1,0 +1,219 @@
+.image2 {
+    position: absolute;
+    width: 40%;
+    height: 891px;
+    left: 2%;
+    top: 3400px;
+}
+
+.contact-text {
+    position: absolute;
+    width: 25%;
+    height: 120px;
+    left: 74%;
+    top: 3400px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: right;
+    color: #101010;
+}
+
+.input1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 50%;
+    height: 90px;
+    left: 49%;
+    top: 3550px;
+    background: #FFFFFF;
+    opacity: 0.6;
+    border: 2px solid #101010;
+}
+
+.input2 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 50%;
+    height: 100px;
+    left: 49%;
+    top: 3680px;
+    background: #FFFFFF;
+    opacity: 0.6;
+    border: 2px solid #101010;
+}
+
+.input3 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 50%;
+    height: 100px;
+    left: 49%;
+    top: 3810px;
+    background: #FFFFFF;
+    opacity: 0.6;
+    border: 2px solid #101010;
+}
+
+.input4 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 50%;
+    height: 191px;
+    left: 49%;
+    top: 3940px;
+    background: #FFFFFF;
+    opacity: 0.6;
+    border: 2px solid #101010;
+}
+
+.input1::placeholder {
+    padding: 30px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: black;
+}
+
+.input2::placeholder {
+    padding: 30px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: black;
+}
+
+.input3::placeholder {
+    padding: 30px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: black;
+}
+
+.input4::placeholder {
+    padding: 30px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-weight: bold;
+    font-size: 28px;
+    line-height: 38px;
+    color: black;
+}
+
+.button {
+    background-color: black;
+    color: white;
+    position: absolute;
+    width: 50%;
+    height: 100px;
+    left: 49%;
+    top: 4190px;
+    cursor: pointer;
+}
+
+.button p {
+    margin-top: 15px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    color: #FFFFFF;
+}
+
+@media only screen and (max-width: 768px) {
+    .image2 {
+        left: 10%;
+        width: 80%;
+        top: 4200px;
+    }
+
+    .contact-text {
+        left: 10%;
+        width: 80%;
+        top: 5100px;
+    }
+
+    .input1 {
+        left: 10%;
+        width: 80%;
+        top: 5220px;
+    }
+
+    .input2 {
+        left: 10%;
+        width: 80%;
+        top: 5340px;
+    }
+
+    .input3 {
+        left: 10%;
+        width: 80%;
+        top: 5460px;
+    }
+
+    .input4 {
+        left: 10%;
+        width: 80%;
+        top: 5580px;
+    }
+
+    .button {
+        left: 10%;
+        width: 80%;
+        top: 5800px;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 903px) {
+    .image2 {
+        top: 4300px;
+    }
+
+    .contact-text {
+        top: 4300px;
+        width: 35%;
+        left: 65%;
+    }
+
+    .input1 {
+        top: 4430px;
+    }
+
+    .input2 {
+        top: 4560px;
+    }
+
+    .input3 {
+        top: 4690px;
+    }
+
+    .input4 {
+        top: 4820px;
+    }
+
+    .button {
+        top: 5070px;
+        ;
+    }
+}
+
+@media only screen and (min-width: 907px) and (max-width: 1065px) {
+    .contact-text {
+        top: 3400px;
+        width: 30%;
+        left: 69%;
+    }
+}

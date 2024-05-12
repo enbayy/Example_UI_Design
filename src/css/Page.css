@@ -1,0 +1,69 @@
+.page-text {
+    position: absolute;
+    width: 60%;
+    height: 60px;
+    left: 7%;
+    top: 1136px;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 44px;
+    line-height: 60px;
+    color: #101010;
+}
+
+.page-text2 {
+    position: absolute;
+    width: 85%;
+    height: 123px;
+    left: 7%;
+    top: 1232px;
+    color: #101010;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 41px;
+}
+
+.image {
+    position: absolute;
+    width: 84%;
+    height: 629px;
+    left: 7%;
+    top: 1490px;
+}
+
+@media only screen and (max-width: 768px) {
+    .image {
+        top: 1650px;
+    }
+}
+
+@media only screen and (max-width: 430px) {
+    .image {
+        top: 1650px;
+    }
+}
+
+@media only screen and (min-width: 400px) and (max-width: 489px) {
+    .image {
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (min-width: 300px) and (max-width: 400px) {
+    .page-text {
+        margin-top: -15px;
+        width: 80%;
+    }
+
+    .page-text2 {
+        margin-top: -45px;
+        width: 100%;
+    }
+
+    .image {
+        margin-top: 30px;
+    }
+}
