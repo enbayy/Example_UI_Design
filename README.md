@@ -1,4 +1,7 @@
-![4](https://github.com/enbayy/Example_UI_Design/assets/103318928/19301579-4175-4267-b815-38ab603b329e)
-![3](https://github.com/enbayy/Example_UI_Design/assets/103318928/0cdfe675-5de3-4af1-9e3c-8c022b9ef4ea)
-![2](https://github.com/enbayy/Example_UI_Design/assets/103318928/f6c08b12-b69d-48cc-9675-160343eea96d)
-![1](https://github.com/enbayy/Example_UI_Design/assets/103318928/dc923555-9bab-4c9b-beb0-dd509a5b357e)
+![1](https://github.com/enbayy/Example_UI_Design/assets/103318928/505374ea-6dd2-416a-9bb7-f1d18933f899)
+
+![2](https://github.com/enbayy/Example_UI_Design/assets/103318928/f8a53396-7478-4c65-893c-16ee4533ca89)
+
+![3](https://github.com/enbayy/Example_UI_Design/assets/103318928/758e6eed-3611-4271-a39c-b25748249458)
+
+![4](https://github.com/enbayy/Example_UI_Design/assets/103318928/ccd41770-f7f5-4c02-96bc-6d5c27c9a995)
